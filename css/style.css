@@ -6,6 +6,10 @@
   font-family: "Inter", sans-serif;
 }
 
+body {
+  background-color: lightgrey;
+}
+/* Nav Logo */
 #nav-logo {
   height: 80px;
   padding: 10px 0px 10px 10px;
@@ -13,7 +17,7 @@
 }
 
 .nav-container {
-  /* background-color: aqua; */
+  background-color: white;
 }
 
 h1 {
@@ -21,4 +25,38 @@ h1 {
   font-size: 48px;
   font-weight: 900;
   vertical-align: middle;
+}
+/* Fine Nav Logo */
+
+/* Container  */
+
+.container-button {
+  max-width: 900px;
+  height: 50px;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px 4px 0 0;
+}
+
+button {
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  margin-top: 10px;
+}
+
+#button-task {
+  border: 1px solid #1e90ff;
+  background-color: #1e90ff;
+  color: white;
+}
+
+#button-section {
+  border: 1px solid #bbb9b9;
+  background-color: #ffffff;
+  color: #bbb9b9;
+}
+
+.section-botton {
+  margin-left: 40px;
 }
