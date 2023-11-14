@@ -5,3 +5,20 @@
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
 }
+
+#nav-logo {
+  height: 80px;
+  padding: 10px 0px 10px 10px;
+  vertical-align: middle;
+}
+
+.nav-container {
+  /* background-color: aqua; */
+}
+
+h1 {
+  display: inline;
+  font-size: 48px;
+  font-weight: 900;
+  vertical-align: middle;
+}
