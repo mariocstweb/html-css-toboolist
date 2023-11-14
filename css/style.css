@@ -80,6 +80,8 @@ button {
 }
 
 /* Container List End*/
+
+/* List style */
 li {
   list-style-type: none;
   padding: 10px 0;
@@ -93,7 +95,6 @@ li {
   display: inline-block;
   width: 20px;
   height: 20px;
-  text-align: center;
 }
 
 .material-symbols-outlined {
@@ -110,5 +111,77 @@ li {
   display: inline-block;
   width: 20px;
   height: 20px;
-  text-align: center;
 }
+/* List style End*/
+
+/* Fake Buttons Style */
+.fake-button-editorial {
+  border: 1px solid #45abea;
+  border-radius: 15px;
+  background-color: #45abea;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+
+.fake-button-goals {
+  border: 1px solid #9c72e4;
+  border-radius: 15px;
+  background-color: #9c72e4;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+
+.fake-button-recruting {
+  border: 1px solid #64c0a9;
+  border-radius: 15px;
+  background-color: #64c0a9;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+
+.fake-button-mobile {
+  border: 1px solid #f29e33;
+  border-radius: 15px;
+  background-color: #f29e33;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+.fake-button-recruting {
+  border: 1px solid #64c0a9;
+  border-radius: 15px;
+  background-color: #64c0a9;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+.fake-button-website {
+  border: 1px solid #d863a1;
+  border-radius: 15px;
+  background-color: #d863a1;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+
+.fake-button-sales {
+  border: 1px solid #b0c926;
+  border-radius: 15px;
+  background-color: #b0c926;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+
+.fake-button-edit {
+  border: 1px solid #f29e33;
+  border-radius: 15px;
+  background-color: #f29e33;
+  color: white;
+  padding: 4px;
+  font-size: 12px;
+}
+/* Fake Buttons Style End */
